@@ -11,4 +11,4 @@ some of the introductory preprocessing steps i have undertaken are:
 - padding
 - Removing stopwords
 
-I have also worked with tensorflow datasets and performed on above mentioned.
+I have also worked with tensorflow datasets and performed the above mentioned steps.
