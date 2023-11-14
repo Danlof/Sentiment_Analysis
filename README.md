@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Introduction to NLP
 from the ai.ipynb
 
 these are lessons am getting from https://github.com/lmoroney from his book Ai and machine learning.
